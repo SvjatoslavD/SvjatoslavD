@@ -26,12 +26,6 @@ Software Engineering student at Western Governors University with a passion for 
 - 📜 ITIL Foundation (July 2025)  
 - 📜 WGU Front-End Developer (February 2025)
 
-## 💼 Professional Experience
-**Business Analyst Intern** at MSI Surfaces (July-September 2024)
-- Applied analytical skills to customer feedback analysis and reporting
-- Collaborated on innovative business solutions and requirements documentation
-- Bridged technical and business requirements for software development projects
-
 ## 📊 GitHub Stats
 ![Svjatoslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvjatoslavD&show_icons=true&theme=dark&hide_border=true)
 
@@ -43,17 +37,11 @@ Software Engineering student at Western Governors University with a passion for 
 - **Team Collaboration**: Proven ability to work effectively in team environments
 - **Continuous Learning**: Actively pursuing certifications and expanding skill set
 
-### 🎮 Minecraft Clone - C++/OpenGL
+## 📈 Featured Projects
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SvjatoslavD&repo=BlockGame&theme=dark&hide_border=true)](https://github.com/SvjatoslavD/BlockGame)
 
-A 3D voxel-based game engine built from scratch using C++, SFML, and OpenGL. This project demonstrates:
-- **Advanced C++**: Object-oriented design, memory management, and performance optimization
-- **Graphics Programming**: OpenGL rendering, texture mapping, and 3D transformations  
-- **Game Development**: Real-time rendering, chunk generation, and player physics
-- **System Architecture**: Modular design with efficient data structures for voxel worlds
-
 **Tech Stack**: C++, SFML, OpenGL, GLFW
-**Key Features**: Block placement/destruction, procedural terrain, camera controls, lighting
+**Key Features**: Procedural terrain, multi-threading, camera controls, lighting
 
 
 ## 📫 Let's Connect!
